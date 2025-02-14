@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**mengkai98/mengkai98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mengkai 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in open-source projects and collaborative development. Here you will find a collection of my projects, contributions, and interests.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+- **Languages:**   C++, JavaScript, Python
+- **Frameworks:** Apollo, Electron, Unreal
+
+## 🌱 Currently Learning
+
+- Exploring car localization and mapping.
+- Enhancing my skills in game engine.
+
+## 📈 GitHub Stats
+
+![Mengkai's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengkai98&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+
+- **Email:** [mengkai98@outlook.com](mailto:mengkai98@outlook.com)
+
+## 💬 Let's Connect!
+
+Feel free to reach out to me for collaboration, mentorship, or just to say hi! I'm always open to connecting with fellow developers and tech enthusiasts.
+
+Thanks for stopping by!
