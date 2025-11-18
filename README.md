@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🔧 Technologies & Tools
 
-- **Languages:**   C++, JavaScript, Python
-- **Frameworks:** Apollo, Electron, Unreal
+- **Languages:**   C++, Python
+- **Frameworks:** Apollo, Pytorch
 
 ## 🌱 Currently Learning
 
