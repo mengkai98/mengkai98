@@ -10,8 +10,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🌱 Currently Learning
 
-- Exploring car localization and mapping.
-- Enhancing my skills in game engine.
+- Exploring prediction and planning
 
 ## 📈 GitHub Stats
 
